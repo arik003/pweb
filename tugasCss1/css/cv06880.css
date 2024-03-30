@@ -1,0 +1,46 @@
+body {
+  font-family: "inter", "serif";
+}
+.container {
+  font-family: "inter", "serif";
+  max-width: 1024px;
+  align-items: center;
+  margin: 64px auto;
+  background-color: #f3f4f6;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  border-radius: 12px;
+}
+table {
+  border-collapse: collapse;
+  margin: 16px auto;
+}
+th,
+td {
+  padding: 12px;
+  vertical-align: top;
+}
+h1 {
+  margin: 24px 0px 32px;
+}
+ul {
+  margin: 4px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: 400;
+  text-decoration: none;
+  color: blue;
+}
+img {
+  border-radius: 4px;
+}
+.collTittle {
+  border-bottom: 4px solid black;
+  padding-bottom: 12px;
+}
